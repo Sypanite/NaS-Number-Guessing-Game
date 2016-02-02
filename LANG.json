@@ -1,0 +1,44 @@
+{
+	"ENGLISH": {
+		"NAME": "English",
+		"INTRO": "I'm thinking of a number between one and twenty. Guess it!",
+		"ERR_CON": "Error connecting to server!",
+		"DIS_CON": "Disconnected from server.",
+		"GUESS": "Guess: ",
+		"NAN": "Well, that's not a number...",
+		"END": "Thanks for playing. Guesses:",
+		"OUT_OF_RANGE": "That number is out of range!",
+		"CLOSE": ["Ooh, close", "Nearly", "Almost", "Close... but no cigar", "Not far off"],
+		"FAR": ["Nowhere near", "You're way out", "Miles off"],
+		"CORRECT": ["Nice one", "Good one", "Well done", "Hurrah", "Yippee", "Woop", "Woo-hoo", "Wizzo"],
+		"CORRECT_SUFFIX": ["you got it", "that's it", "bang on", "exactly", "bingo"]
+	},
+	"FRENCH": {
+		"NAME": "Français",
+		"INTRO": "Je pense à un nombre compris entre un et vingt. Devine ça!",
+		"ERR_CON": "Erreur de connexion au serveur!",
+		"DIS_CON": "Déconnecté du serveur.",
+		"GUESS": "Deviner: ",
+		"NAN": "Eh bien, ce ne est pas un certain nombre...",
+		"END": "Merci d'avoir joué. Conjectures: ",
+		"OUT_OF_RANGE": "Ce nombre est hors de portée!",
+		"CLOSE": ["Ooh, à proximité", "Presque", "Juste à côté", "Fermer... mais pas de cigare", "Non loin"],
+		"FAR": ["Loin", "Vous êtes sortir", "À des miles"],
+		"CORRECT": ["Bien joué", "Bon", "Hourra", "Woo-hoo"],
+		"CORRECT_SUFFIX": ["tu l'as eu", "c'est cela", "taper sur", "exactement"]
+	},
+	"GERMAN": {
+		"NAME": "Deutsche",
+		"INTRO": "Ich denke an eine zahl zwischen eins und zwanzig. Schätze mal!",
+		"ERR_CON": "Fehler beim verbinden mit aufschläger!",
+		"DIS_CON": "Von getrennt aufschläger.",
+		"GUESS": "Vermuten: ",
+		"NAN": "Nun, das ist nicht eine reihe...",
+		"END": "Danke fürs spielen. Vermutungen:",
+		"OUT_OF_RANGE": "Diese zahl ist außerhalb der reichweite!",
+		"CLOSE": ["Ooh, in der nähe", "Fast", "Schließen ... aber keine Zigarre", "Nicht weit weg"],
+		"FAR": ["Nirgendwo in der nähe", "Du bist ausweg", "Meilen vor"],
+		"CORRECT": ["Schön", "Ein guter", "Gut gemacht", "Hurrah", "Woo-hoo"],
+		"CORRECT_SUFFIX": ["du hast es", "das ist es", "klopfen an", "genau"]
+	}
+}
